@@ -1,4 +1,5 @@
 # Semi-Autonomous Floor Scrubbing Robot
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c03ff30b-c7d6-48f1-b188-fbfb570f6bcc" />
 
 ## 🧠 Overview
 A semi-autonomous floor scrubbing robot designed for integrated **dry (dust) and wet (liquid) cleaning**. The system combines vacuum suction, liquid spraying, and rotating mop-based scrubbing with sensor-driven navigation and dual-controller architecture.
@@ -78,11 +79,11 @@ The robot intelligently switches between:
 ## 🖼️ System Design
 
 ### 🔹 Prototype
-![Robot Prototype](./assets/prototype.jpg)
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ce2e42f9-c2ee-48c6-9868-4d5a9191a377" />
 
 ### 🔹 CAD Model
-![CAD Design](./assets/design1.png)
-![CAD Design](./assets/design2.png)
+<img width="778" height="613" alt="image" src="https://github.com/user-attachments/assets/d811c9d1-765b-4604-be23-4c3fae4a91b8" />
+
 
 ---
 
@@ -134,32 +135,3 @@ This system demonstrates a practical integration of:
 
 → enabling a low-cost semi-autonomous cleaning robot.
 
-## ⚙️ System Flow (Animated)
-
-<p align="center">
-<svg width="700" height="160" xmlns="http://www.w3.org/2000/svg">
-
-  <rect width="100%" height="100%" fill="#0d1117"/>
-
-  <!-- Boxes -->
-  <rect x="30" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
-  <rect x="170" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
-  <rect x="310" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
-  <rect x="450" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
-  <rect x="590" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
-
-  <!-- Labels -->
-  <text x="50" y="75" fill="#00F7FF">Scan</text>
-  <text x="190" y="75" fill="#00F7FF">Detect</text>
-  <text x="330" y="75" fill="#00F7FF">Vacuum</text>
-  <text x="470" y="75" fill="#00F7FF">Spray</text>
-  <text x="610" y="75" fill="#00F7FF">Scrub</text>
-
-  <!-- Moving Dot -->
-  <circle r="5" fill="#00F7FF">
-    <animateMotion dur="4s" repeatCount="indefinite"
-      path="M80,90 L220,90 L360,90 L500,90 L640,90"/>
-  </circle>
-
-</svg>
-</p>
