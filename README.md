@@ -1,5 +1,6 @@
 # Semi-Autonomous Floor Scrubbing Robot
 🚧 **Status:** Complete Project
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c03ff30b-c7d6-48f1-b188-fbfb570f6bcc" />
 
 ## 🧠 Overview
@@ -84,12 +85,6 @@ The robot intelligently switches between:
 
 ### 🔹 CAD Model
 <img width="778" height="613" alt="image" src="https://github.com/user-attachments/assets/d811c9d1-765b-4604-be23-4c3fae4a91b8" />
-
-
----
-
-## 🎥 Demonstration
-(Add your video link here)
 
 ---
 
