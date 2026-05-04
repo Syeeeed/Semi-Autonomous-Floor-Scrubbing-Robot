@@ -92,6 +92,7 @@ The cleaning mechanism was analyzed using the **Complex Algebra Method** (Theory
 <img width="1188" height="714" alt="image" src="https://github.com/user-attachments/assets/498b6987-14bb-466d-bbcb-a41e654259ba" />
 <img width="644" height="714" alt="image" src="https://github.com/user-attachments/assets/d7daa46c-65fb-42eb-81df-f3f496308db4" />
 <img width="842" height="714" alt="image" src="https://github.com/user-attachments/assets/87ecf522-259d-4a32-bebc-e5cbd8afcc94" />
+<img width="1117" height="496" alt="image" src="https://github.com/user-attachments/assets/95723242-9d5b-48bd-8330-e0a761036aa5" />
 
 ---
 
