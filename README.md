@@ -93,8 +93,6 @@ The cleaning mechanism was analyzed using the **Complex Algebra Method** (Theory
 <img width="644" height="714" alt="image" src="https://github.com/user-attachments/assets/d7daa46c-65fb-42eb-81df-f3f496308db4" />
 <img width="842" height="714" alt="image" src="https://github.com/user-attachments/assets/87ecf522-259d-4a32-bebc-e5cbd8afcc94" />
 
-### Governing Equations
-
 ---
 
 ## 🖼️ System Design
