@@ -88,7 +88,10 @@ The cleaning mechanism was analyzed using the **Complex Algebra Method** (Theory
 
 ### Analysis
 - **Link 3:** Angular displacement, velocity, acceleration  
-- **Link 4:** Linear displacement, velocity, acceleration  
+- **Link 4:** Linear displacement, velocity, acceleration 
+<img width="1188" height="714" alt="image" src="https://github.com/user-attachments/assets/498b6987-14bb-466d-bbcb-a41e654259ba" />
+<img width="644" height="714" alt="image" src="https://github.com/user-attachments/assets/d7daa46c-65fb-42eb-81df-f3f496308db4" />
+<img width="842" height="714" alt="image" src="https://github.com/user-attachments/assets/87ecf522-259d-4a32-bebc-e5cbd8afcc94" />
 
 ### Governing Equations
 
