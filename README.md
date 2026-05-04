@@ -78,6 +78,22 @@ The robot intelligently switches between:
 
 ---
 
+## 📐 Mechanism & Kinematic Analysis
+
+The cleaning mechanism was analyzed using the **Complex Algebra Method** (Theory of Machines).
+
+### Objective
+- Evaluate motion of scrubbing mechanism  
+- Ensure stable and efficient operation  
+
+### Analysis
+- **Link 3:** Angular displacement, velocity, acceleration  
+- **Link 4:** Linear displacement, velocity, acceleration  
+
+### Governing Equations
+
+---
+
 ## 🖼️ System Design
 
 ### 🔹 Prototype
