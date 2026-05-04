@@ -1,4 +1,5 @@
 # Semi-Autonomous Floor Scrubbing Robot
+🚧 **Status:** Complete Project
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c03ff30b-c7d6-48f1-b188-fbfb570f6bcc" />
 
 ## 🧠 Overview
@@ -122,7 +123,7 @@ The robot intelligently switches between:
 - Full SLAM-based autonomy  
 - AI-based dirt classification  
 - Path optimization algorithms  
-- LiDAR / vision-based navigation  
+- vision-based navigation  
 - Automated water management system  
 
 ---
