@@ -133,3 +133,33 @@ This system demonstrates a practical integration of:
 - **Sensor-based intelligence (decision-driven cleaning)**
 
 → enabling a low-cost semi-autonomous cleaning robot.
+
+## ⚙️ System Flow (Animated)
+
+<p align="center">
+<svg width="700" height="160" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="100%" height="100%" fill="#0d1117"/>
+
+  <!-- Boxes -->
+  <rect x="30" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
+  <rect x="170" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
+  <rect x="310" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
+  <rect x="450" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
+  <rect x="590" y="50" width="100" height="40" stroke="#00F7FF" fill="none"/>
+
+  <!-- Labels -->
+  <text x="50" y="75" fill="#00F7FF">Scan</text>
+  <text x="190" y="75" fill="#00F7FF">Detect</text>
+  <text x="330" y="75" fill="#00F7FF">Vacuum</text>
+  <text x="470" y="75" fill="#00F7FF">Spray</text>
+  <text x="610" y="75" fill="#00F7FF">Scrub</text>
+
+  <!-- Moving Dot -->
+  <circle r="5" fill="#00F7FF">
+    <animateMotion dur="4s" repeatCount="indefinite"
+      path="M80,90 L220,90 L360,90 L500,90 L640,90"/>
+  </circle>
+
+</svg>
+</p>
